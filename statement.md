@@ -1,6 +1,6 @@
 When college students are looking for a place to live off-campus, affordability is not really an option that is marketed to them. Finding an affordable place is often a word to mouth thing.
 
-* What person am I solving the problem for:
+* What person am I solving the problem for?
 
 The people I am trying to build the app for are college students. They are young adults, with limited resources, and they need a stable environment to live so they can focus on learning. I understand the narrative that college students have money because of how expensive college is. People assume that if they are in college they in fact do have money. This app would target college students that have limited resources for rent. This includes students working limited hours because of school workload, students below 24 that the federal government doesn't help with housing assistance. This app will also target students with different immigration status and are not able to receive assistance for rent.
 
@@ -12,7 +12,7 @@ Another major reason that makes housing expensive for college students is the in
 
 
 
-*What are the ways low income students use to find apartments today?
+* What are the ways low income students use to find apartments today?
 
 I did ask other college students in my college group chat, and they mostly find affordable places through networking with other students, it is a word to mouth situation. Others have to research through the existing various apps to hopefully find something in their price range.  This makes it take a long time before they can get what they are looking for. Those who don’t find affordable housing either become homeless or go back to their parents’ house and miss college semester(s).
 
